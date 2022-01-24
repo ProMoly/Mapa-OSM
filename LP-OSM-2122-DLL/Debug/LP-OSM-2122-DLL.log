@@ -1,0 +1,7 @@
+﻿  DLL-Bridge.cpp
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\codiEstudiants\estudiants\third-party\include\xercesc\dom\DOM.hpp(30,10): fatal error C1083: No se puede abrir el archivo incluir: 'xercesc/dom/DOMAttr.hpp': No such file or directory
+  MapaRender.cpp
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\codiEstudiants\estudiants\third-party\include\xercesc\dom\DOM.hpp(30,10): fatal error C1083: No se puede abrir el archivo incluir: 'xercesc/dom/DOMAttr.hpp': No such file or directory
+  XML4OSMUtil.cpp
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\codiEstudiants\estudiants\third-party\include\xercesc\dom\DOM.hpp(30,10): fatal error C1083: No se puede abrir el archivo incluir: 'xercesc/dom/DOMAttr.hpp': No such file or directory
+  Generando código...

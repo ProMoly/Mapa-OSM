@@ -1,0 +1,44 @@
+﻿  pch.cpp
+  BallTree.cpp
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\Ball.h(70,19): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+  CamiSolucio.cpp
+  DLL-Bridge.cpp
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\Ball.h(70,19): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+  dllmain.cpp
+  GrafSolucio.cpp
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\GrafSolucio.cpp(82,12): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\GrafSolucio.cpp(86,10): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\GrafSolucio.cpp(89,9): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\GrafSolucio.cpp(96,16): warning C4244: 'return': conversión de '_Ty2' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\GrafSolucio.cpp(104,26): warning C4244: 'argumento': conversión de 'const int' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\GrafSolucio.cpp(133,44): warning C4244: '=': conversión de '_Ty2' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty2=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+  MapaRender.cpp
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\Ball.h(70,19): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\MapaRender.cpp(39,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MapaSolucio.cpp
+C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\LP-OSM-2122-DLL\Ball.h(70,19): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+  PuntDeInteresBase.cpp
+  PuntDeInteresBotigaSolucio.cpp
+  PuntDeInteresCafeSolucio.cpp
+  PuntDeInteresRestaurantSolucio.cpp
+  Util.cpp
+  XML4OSMUtil.cpp
+  Generando código...
+     Creando biblioteca C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\x64\Debug\LP-OSM-2122-DLL.lib y objeto C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\x64\Debug\LP-OSM-2122-DLL.exp
+  LP-OSM-2122-DLL.vcxproj -> C:\Users\tonim\OneDrive - Universitat Autònoma de Barcelona\UNI\1r SEM\LP\PRACTICA\estudiants\x64\Debug\LP-OSM-2122-DLL.dll
